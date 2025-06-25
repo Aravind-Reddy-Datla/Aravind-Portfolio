@@ -28,17 +28,17 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 ## 🚀 Projects
 
-### 🔬 [Diabetes Diagnosis Prediction (KNN)]((./knn-diabetes-diagnosis))
+### 🔬 [Diabetes Diagnosis Prediction (KNN)]((.knn-diabetes-diagnosis))
 - Built a KNN model with **91.7% accuracy**
 - Used StandardScaler, ANOVA, and `GridSearchCV` for hyperparameter tuning
 
-### 📊 [Shopify Sales Funnel Analysis (Power BI)](./shopify-sales-powerbi)
+### 📊 [Shopify Sales Funnel Analysis (Power BI)](.shopify-sales-powerbi)
 - Designed an interactive dashboard with DAX and drill-through filters
 
-### 🚗 [Electric Vehicle Trends (Tableau)](./ev-trends-tableau)
+### 🚗 [Electric Vehicle Trends (Tableau)](ev-trends-tableau)
 - Built a visual KPI dashboard with action filters and calculated fields
   
-### 🍕 [Pizza Sales Dashboard (Excel)](./pizza-sales-excel-dashboard)
+### 🍕 [Pizza Sales Dashboard (Excel)](pizza-sales-excel-dashboard)
 - Created dynamic Excel dashboards using PivotTables, slicers, and timeline filters
 
 ---

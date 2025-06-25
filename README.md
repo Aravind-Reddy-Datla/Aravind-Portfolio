@@ -50,6 +50,7 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 
 **Programming Languages:** SQL, Python, R, Java, PL/SQL
+
 **Packages:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Selenium (Java)	
 
 **Data Tools:** Jupyter, PyCharm, Google Colab, VS Code, SAS Studio, JMP Studio, Microsoft Power BI, Tableau, Toad, Advanced Microsoft Excel, Git, Microsoft Project, Visio, Lucid Chart, Informatica, Snowflake, BigQuery

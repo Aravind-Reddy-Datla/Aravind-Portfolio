@@ -48,11 +48,17 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 **Programming Languages:** SQL, Python, R, Java, PL/SQL
 **Packages:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Selenium (Java)	
+
 **Data Tools:** Jupyter, PyCharm, Google Colab, VS Code, SAS Studio, JMP Studio, Microsoft Power BI, Tableau, Toad, Advanced Microsoft Excel, Git, Microsoft Project, Visio, Lucid Chart, Informatica, Snowflake, BigQuery
+
 **Data Analytics:** Data Analysis, Data Wrangling, Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Data Modeling, Statistical Modeling, Predictive Modeling, Time series Forecasting, A/B testing, Hypothesis Testing
+
 **Data Quality:** Data Validation, ETL Testing, Regression Testing, End-to-End Testing, User Acceptance Testing
+
 **Databases:** MySQL, Hadoop, Pig
+
 **Cloud Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
+
 **Project Management:** Agile, Scrum, JIRA
 
 

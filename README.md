@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a Master’s student in Business Analytics & Project Management at the University of Connecticut, with 3+ years of experience in data engineering, business intelligence, and analytics roles. I specialize in translating data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
+I'm a Master’s student in Business Analytics & Project Management at the University of Connecticut, with 4 years of experience in data engineering, business intelligence, and analytics roles. I specialize in translating data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
 
 ---
 

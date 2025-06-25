@@ -28,7 +28,7 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 ## 🚀 Projects
 
-### 🔬 [Diabetes Diagnosis Prediction (KNN)](([.knn-diabetes-diagnosis](https://github.com/Aravind-Reddy-Datla/Aravind-Portfolio/tree/6bf164a3720a8b9a93ce1069b8444b4c3c318044/knn-diabetes-diagnosis)))
+### 🔬 [Diabetes Diagnosis Prediction (KNN)](knn-diabetes-diagnosis)
 - Built a KNN model with **91.7% accuracy**
 - Used StandardScaler, ANOVA, and `GridSearchCV` for hyperparameter tuning
 

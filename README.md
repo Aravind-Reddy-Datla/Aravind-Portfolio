@@ -37,7 +37,7 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 ### 🚗 [Electric Vehicle Trends (Tableau)](./ev-trends-tableau)
 - Built a visual KPI dashboard with action filters and calculated fields
-- 
+  
 ### 🍕 [Pizza Sales Dashboard (Excel)](./pizza-sales-excel-dashboard)
 - Created dynamic Excel dashboards using PivotTables, slicers, and timeline filters
 

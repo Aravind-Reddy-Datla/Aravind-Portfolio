@@ -32,7 +32,7 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 - Built a KNN model with **91.7% accuracy**
 - Used StandardScaler, ANOVA, and `GridSearchCV` for hyperparameter tuning
 
-### 📊 [Shopify Sales Funnel Analysis (Power BI)](.shopify-sales-powerbi)
+### 📊 [Shopify Sales Funnel Analysis (Power BI)](shopify-sales-powerbi)
 - Designed an interactive dashboard with DAX and drill-through filters
 
 ### 🚗 [Electric Vehicle Trends (Tableau)](ev-trends-tableau)

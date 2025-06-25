@@ -74,7 +74,8 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 ## 📫 Contact
 
-- 📧 aravind.datla05@gmail.com  
+- 📧 aravind.datla05@gmail.com
+- 📞 +1 959-248-8855
 - 💼 [LinkedIn](https://www.linkedin.com/in/aravind-reddy-datla)
 
 ---

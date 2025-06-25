@@ -2,7 +2,7 @@
 
 **Data Analyst | Data Engineer**
 
-📍 Hartford, CT | 📧 aravind.datla05@gmail.com | [LinkedIn](https://www.linkedin.com/in/aravind-reddy-datla)
+📍 Hartford, CT | 📧 aravind.datla05@gmail.com | 📞 +1 959-248-8855 | [LinkedIn](https://www.linkedin.com/in/aravind-reddy-datla)
 
 ---
 

@@ -5,7 +5,7 @@ This project aims to analyze electric vehicle (EV) adoption and performance tren
 
 ## 📊 Tools & Techniques
 - **Tableau Desktop/Tableau Public**: For creating interactive, dynamic dashboards.
-- **MS Office/Excel (2021+)**: For initial data preparation and quality checks.
+- **MS Office/Excel: For initial data preparation and quality checks.
 - **Calculated Fields**: To derive KPIs like Total Vehicles, Average Electric Range, Total BEV (Battery Electric Vehicles), and Total PHEV (Plug-in Hybrid Electric Vehicles) counts with percentages.
 - **Parameters**: Enabling dynamic selections (e.g., "Top N" vehicle manufacturers and dynamic chart titles).
 - **Filters & Context Filters**: To restrict data (e.g., model year from 2011 onwards) and maintain proper filter hierarchy.

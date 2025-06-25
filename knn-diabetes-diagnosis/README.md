@@ -1,28 +1,31 @@
 # 🔬 Diabetes Diagnosis Prediction Using KNN
 
+## 🧠 About the Project
+This portfolio project demonstrates my personal implementation of the **K-Nearest Neighbors (KNN)** algorithm to solve a real-world classification task—predicting diabetes presence in patients using clinical features. The aim is to enhance diagnostic accuracy using machine learning fundamentals while strengthening my end-to-end modeling workflow.
+
 ## 📌 Problem Statement
-Predict whether a patient is diabetic based on clinical features using machine learning.
+Given a dataset of patient records, can we accurately classify whether a person is diabetic based on physiological data like glucose levels, BMI, and blood pressure?
 
 ## 🎯 Objective
-Build a K-Nearest Neighbors (KNN) model to achieve high classification accuracy and interpret feature importance.
+To build a robust KNN classification model with optimal hyperparameters, evaluate its performance against baselines, and interpret feature significance.
 
-## 🛠️ Tools & Techniques
-- Python, Pandas, Scikit-learn, Jupyter Notebook
-- StandardScaler, ANOVA Feature Selection
-- GridSearchCV for hyperparameter tuning
+## 🛠️ Tools & Techniques Used
+- **Language & Libraries**: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Feature Engineering**: Label Encoding, ANOVA F-test for feature selection
+- **Modeling**: KNN Classifier, `train_test_split`, `GridSearchCV`
 
-## 📊 Process Overview
-1. Cleaned and preprocessed patient data
-2. Scaled features for distance-based modeling
-3. Used ANOVA to select top predictors
-4. Tuned `n_neighbors`, `weights`, and `metric` via cross-validation
-5. Evaluated using accuracy, confusion matrix, and ROC-AUC
+## 📊 Workflow Summary
+1. Cleaned and standardized patient health data
+2. Performed feature selection using ANOVA (f_classif)
+3. Applied `StandardScaler` for consistent distance metrics
+4. Trained baseline and tuned KNN models using `GridSearchCV`
+5. Compared performance using cross-validation and visualizations
 
-## ✅ Outcome
-- Final Accuracy: **91.7%**
-- KNN model outperformed baseline and showed strong generalization
-- Reduced dimensionality without loss in predictive power
+## ✅ Results
+- Achieved **91.7% accuracy** with optimized hyperparameters
+- Tuned parameters included: `n_neighbors`, `weights`, `metric`
+- High generalization validated through cross-validation
 
-## 📈 Future Work
-- Compare with logistic regression and random forest
-- Build a Streamlit app to make the model interactive
+## 📈 Next Steps
+- Compare results with Logistic Regression and Random Forest
+- Create an interactive **Streamlit web app** for real-time predictions

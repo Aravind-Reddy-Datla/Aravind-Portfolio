@@ -15,17 +15,13 @@ I'm a Master’s student in Business Analytics & Project Management at the Unive
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience 
 
 - **Data Analyst – UConn Dining Services**  
-  ⤷ Reduced peak wait times by 15% through scheduling optimization  
-  ⤷ Designed 15+ Power BI dashboards for real-time ops decisions  
-  ⤷ Automated reporting, cutting manual effort by 87%
+
 
 - **Data Engineer – Accenture**  
-  ⤷ Built ETL pipelines processing 1.5M+ records/month  
-  ⤷ Improved data accuracy to 99.5%+ for incentive payouts  
-  ⤷ Delivered 100+ incentive reports monthly via SAP BI
+
 
 ---
 
